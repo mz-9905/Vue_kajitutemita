@@ -23,7 +23,7 @@ import ShowResults from './components/ShowResults.vue'
 import JudgeBMI from './components/JudgeBMI.vue';
 
 const myData = {
-    appName: "BMI Calculator",//アプリ名
+    appName: "BMI 計算機",//アプリ名
     message: "身長と体重を入力してください",//メッセージ
     cm: 160,//身長
     kg: 60,//体重
